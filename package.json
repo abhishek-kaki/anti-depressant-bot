@@ -1,0 +1,25 @@
+{
+  "name": "anti-depressant-bot",
+  "version": "1.0.0",
+  "description": "Makes life Happy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-kaki/anti-depressant-bot.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-kaki/anti-depressant-bot/issues"
+  },
+  "homepage": "https://github.com/abhishek-kaki/anti-depressant-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "snoostorm": "^1.5.2",
+    "snoowrap": "^1.22.0"
+  }
+}
